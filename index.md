@@ -4,11 +4,12 @@
 
 
 ## Here are some things I like
-<a name ="#here-are-some-things-i-like"></a>
+<a name ="here-are-some-things-i-like"></a>
 - **Running**
 - *Going to the beach*
 - ~~Video Games~~
-- ***Watching TV/Anime***
+- **Watching _Anime_**
+- ***Watching TV***
 - <sub>Hanging out with friends</sub>
 - <sup>Learning more about coding</sup>
 - <ins>Listening to music</ins>
@@ -16,7 +17,7 @@
 > I really like going to the beach so heres a picture
 ![One of the beaches I went to in Hawaii](https://pmimaui.com/wp-content/uploads/2019/11/black-sand-beach-1500x609.jpg)
 
-'The black sand was really cool'
+`The black sand was really cool`
 
 Here is that README for this Lab
 [README](README.md)
@@ -30,8 +31,8 @@ Here is that README for this Lab
 6. C
 
 ### Some Tasks I need to do
-- [x] Lab 1
-- [ ] Finish this quarter 
+- [x]  Lab 1
+- [ ]  Finish this quarter 
 
 
 Heres a link to check out what I like again: [Link Text] (#here-are-some-things-i-like).
