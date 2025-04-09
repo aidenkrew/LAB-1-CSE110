@@ -35,4 +35,4 @@ Here is that README for this Lab
 - [ ]  Finish this quarter 
 
 
-Heres a link to check out what I like again: [Link Text] (#here-are-some-things-i-like).
+Heres a link to check out what I like again: [Link Text](#here-are-some-things-i-like).
