@@ -4,6 +4,7 @@
 
 
 ## Here are some things I like
+<a name ="#here-are-some-things-i-like"></a>
 - **Running**
 - *Going to the beach*
 - ~~Video Games~~
@@ -29,8 +30,8 @@ Here is that README for this Lab
 6. C
 
 ### Some Tasks I need to do
-[x] Lab 1
-[ ] Finish this quarter 
+- [x] Lab 1
+- [ ] Finish this quarter 
 
 
 Heres a link to check out what I like again: [Link Text] (#here-are-some-things-i-like).
